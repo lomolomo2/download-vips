@@ -1,8 +1,9 @@
-set vip_version=8.13.3
+set vip_version=cf23591
 
 set vip_zip_name=vips-dev-w64-all-%vip_version%.zip
 
-set VIPS_URL=https://github.com/libvips/build-win64-mxe/releases/download/v%vip_version%/%vip_zip_name%
+REM set VIPS_URL=https://github.com/libvips/build-win64-mxe/releases/download/v%vip_version%/%vip_zip_name%
+set VIPS_URL=https://github.com/lomolomo2/download-vips/releases/download/%vip_version%/vips-dev-%vip_version%.zip
 REM set VIPS_URL=https://github.com/libvips/build-win64-mxe/releases/download/v8.14.5/%vip_zip_name%
 REM set VIPS_URL=https://github.com/libvips/libvips/releases/download/v8.10.6/%vip_zip_name%
 
