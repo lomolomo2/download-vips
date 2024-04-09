@@ -13,3 +13,5 @@ https://github.com/libvips/build-win64-mxe/issues/63
 ![image](https://github.com/lomolomo2/download-vips/assets/124758713/570f9f6f-26a7-4027-8534-0caf1c12040b)
 
 >  sudo ./build.sh all --with-hevc -r 8.15
+
+# See release for pre-build binaries.
