@@ -1,12 +1,10 @@
-# Docker desktop for Windows, version as below:
+# Pre-requirments
+## 1.Docker desktop for Windows, version as below:
 
 ![image](https://github.com/lomolomo2/download-vips/assets/124758713/f83b98c7-1e78-48e9-8bfd-fd6129f7e64d)
 
-# WSL + Ubuntu 22.04.3 LTS as below picture:
+## 2.WSL + Ubuntu 22.04.3 LTS as below picture:
 ![image](https://github.com/lomolomo2/download-vips/assets/124758713/b9fef7d9-96e5-48bf-bfca-2cd6d197101f)
-
-# Go to this on detail
-https://github.com/libvips/build-win64-mxe/issues/63
 
 # Build cmd:
 
@@ -15,3 +13,7 @@ https://github.com/libvips/build-win64-mxe/issues/63
 >  sudo ./build.sh all --with-hevc -r 8.15
 
 # See release for pre-build binaries.
+https://github.com/lomolomo2/download-vips/releases
+
+# Go to below link on detail if need troubleshooting
+https://github.com/libvips/build-win64-mxe/issues/63
